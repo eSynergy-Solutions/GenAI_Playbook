@@ -1,0 +1,43 @@
+Building Generative AI Applications – exclusive workshop for esynergy associates
+Workshop for esynergy LA and the wider community- this is going to be 100% virtual course. 
+Date and time : GMT evening after 5 pm in the week starting 11th of December; will give more specific details for registered individuals.
+This course prepares you to build solutions that leverage generative AI features to make discovery easier, faster, and more effective. The course consists of presentations, demos, and hands-on labs where you work with GenAI models and services and build realistic GenAI search applications.
+Learning Objectives
+After successfully completing this course, you will be able to:
+•	Identify opportunities to leverage GenAI-enabled search solutions for multiple use cases.
+•	Understand key concepts specific to GenAI search, such as embeddings, vector search, and retrieval-augmented generation (RAG).
+•	Evaluate various technology stacks and select architectures best suited for their use cases.
+•	Design solutions using best practices
+•	Begin building search applications from scratch or by using managed platforms.
+Who should attend?
+This course is designed for developers, solution architects, and others involved in the design, development, and operation of software systems. You need to have good Python skills.
+Course Outline
+Generative AI-Enabled Search in Action
+•	Hands-On Tour of Real-World Search Applications
+•	What Are the Benefits of GenAI-Enabled Search?
+•	What are the risks of such solutions? 
+ 
+GenAI Search Fundamentals
+•	Embeddings and Similarity Searches
+•	Generative AI for Composing Search Responses
+•	Citations
+•	Risks and Mitigations
+•	A Sample Architecture
+Tools and technologies
+•	Creating Text and Image Embeddings
+•	Databases That Support Vector Search
+•	Langchain
+Langchain Fundamentals
+•	Langchain Concepts 
+o	Models
+o	Prompts
+o	Memory
+o	Indexes
+o	Chains
+•	Creating Embeddings Using Langchain
+•	Creating retrieval chains with Langchain
+Building custom search applications
+•	Creating the Retrieval Chain
+•	Doing the Similarity Search
+•	Composing the Response
+
